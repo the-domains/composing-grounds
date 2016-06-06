@@ -1,11 +1,6 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://vi.be'
-  name: Vi
-  favicon: 'http://vi.be/template/vibe2/img/vibe-favicon.png'
-  domain: vi.be
+datePublished: '2016-06-06T15:56:37.903Z'
+isBasedOnUrl: 'http://vi.be/vroaar?track=0d293959-2804-4cf6-906e-d861ef70e628'
 keywords:
   - vvvvvvvvvvvvvvvvvvvv
   - gent
@@ -17,13 +12,18 @@ keywords:
   - hoek
   - eerste
   - vrooaar
+related: []
+author: []
+dateModified: '2016-06-06T15:56:32.345Z'
+title: VroÔAar on vi.be
+app_links: []
+publisher:
+  url: 'http://vi.be'
+  name: Vi
+  favicon: 'http://vi.be/template/vibe2/img/vibe-favicon.png'
+  domain: vi.be
 description: VVVVVVVVVVVVVVVVVVVV VroÔAar ! VVVVVVVVVVVVVVVVVVVV
 inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://vi.be/vroaar?track='
-title: VroÔAar on vi.be
-datePublished: '2016-06-06T15:46:21.048Z'
-dateModified: '2016-06-06T15:45:57.138Z'
 starred: false
 sourcePath: _posts/2016-06-06-vrooaar-on-vibe.md
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>VroÔAar on vi.be</h1><p>VVVVVVVVVVVVVVVVVVVV VroÔAar ! VVVVVVVVVVVVVVVVVVVV</p><img src="http://download.dalicloud.com/fis/download/1386e1f2f3a124748ece9ec6238a9256/1fcc00a8-f8cd-4daa-94cd-2b5687ca7f9e/VROOAAR_4.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd3250faa768b585b307b8876b4edc4ea024f269.jpg" /><h1>VroÔAar on vi.be</h1><p>VVVVVVVVVVVVVVVVVVVV VroÔAar ! VVVVVVVVVVVVVVVVVVVV</p></article>
