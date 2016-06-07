@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Composing Grounds]]></title>
         <description><![CDATA[Composing Grounds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/composing-grounds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 19:22:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 07 Jun 2016 19:22:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/composing-grounds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AKoM - All Kinds of Materials (2015) by Patrick Housen]]></title>
             <description><![CDATA[<article><h1>AKoM - All Kinds of Materials (2015) by Patrick Housen</h1><p>Mixed Ensemble that clashes high & low brow. Classical instruments vs drums and electronic bass
@@ -13,6 +13,13 @@
             <link>https://soundcloud.com/patrick-housen/sets/akom-all-kinds-of-materials-2015</link>
             <guid isPermaLink="false">0cc962e3-d72b-484e-ad29-bc88f702ef90</guid>
             <pubDate>Tue, 07 Jun 2016 19:22:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does it ever rain in the rainforest by Patrick Housen]]></title>
+            <description><![CDATA[<article><h1>Does it ever rain in the rainforest by Patrick Housen</h1><p>Soundscape created by using a PD patch with different Delays and filters. All signalprocessing is done in real time. Played by Ellen Nuttin (e-Violin) en Patrick Housen (E-Guitar)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f7184f1c90cf82a2130c8c636e8e0a26c9d63e.png"></article>]]></description>
+            <link>https://soundcloud.com/patrick-housen/does-it-ever-rain-in-the</link>
+            <guid isPermaLink="false">1f418d6b-d2af-4a20-9318-ae8cef92fb79</guid>
+            <pubDate>Tue, 07 Jun 2016 19:22:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
