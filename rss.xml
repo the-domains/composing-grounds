@@ -4,7 +4,7 @@
         <description><![CDATA[Composing Grounds]]></description>
         <link>https://thegrid.ai/composing-grounds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 19:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 19:22:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/composing-grounds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AKoM - All Kinds of Materials (2015) by Patrick Housen]]></title>
@@ -13,13 +13,6 @@
             <link>https://soundcloud.com/patrick-housen/sets/akom-all-kinds-of-materials-2015</link>
             <guid isPermaLink="false">0cc962e3-d72b-484e-ad29-bc88f702ef90</guid>
             <pubDate>Tue, 07 Jun 2016 19:22:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Maze by Patrick Housen]]></title>
-            <description><![CDATA[<article><h1>Maze by Patrick Housen</h1><p>Live recording of Maze Maze (2012) is a piece I've written for - the celebration of An Pierlé as composer of the city of Ghent 2013. It had it's debut performance by Headliner @ 'Week van de Hedendaagse Muziek' in Ghent on 27/03/13 Link to facebook page of Headliner: http://tinyurl.com/cekm2uj - Go check these guys out!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f7184f1c90cf82a2130c8c636e8e0a26c9d63e.png"></article>]]></description>
-            <link>https://soundcloud.com/patrick-housen/maze</link>
-            <guid isPermaLink="false">3fecc8a2-0dea-415e-944e-b6f7977ce810</guid>
-            <pubDate>Tue, 07 Jun 2016 19:22:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tripped_BachelorRecital_130623 by Patrick Housen]]></title>
@@ -76,6 +69,13 @@
             <link>https://soundcloud.com/patrick-housen/beginning-of-the-end</link>
             <guid isPermaLink="false">d2b0b493-ec65-4f86-9a6e-fdb49a153161</guid>
             <pubDate>Tue, 07 Jun 2016 19:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hypervanillated by Patrick Housen]]></title>
+            <description><![CDATA[<article><h1>Hypervanillated by Patrick Housen</h1><p>Live recording of this piece on 07 June 2012. This piece was part of the Masterdegree exam of Vincent Alpaerts. The piece is a combination of live play (baritone saxophone) and prerecorded sounds that are triggered by the musician.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f7184f1c90cf82a2130c8c636e8e0a26c9d63e.png"></article>]]></description>
+            <link>https://soundcloud.com/patrick-housen/hypervanillated_masterproef</link>
+            <guid isPermaLink="false">01d5d422-3ac9-4a11-a96b-9bb5bac4f343</guid>
+            <pubDate>Tue, 07 Jun 2016 19:22:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
