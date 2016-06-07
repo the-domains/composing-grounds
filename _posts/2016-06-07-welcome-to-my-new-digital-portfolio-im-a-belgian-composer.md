@@ -4,12 +4,12 @@ description: >-
   guitarist residing in Ghent. Passion for composing, creating, crafting,
   playing (live), developing, listening to, trying to understand and discovering
   (New) Sounds and Music!
-dateModified: '2016-06-07T18:30:43.391Z'
-datePublished: '2016-06-07T18:30:43.982Z'
+dateModified: '2016-06-07T18:29:51.498Z'
+datePublished: '2016-06-07T18:30:32.676Z'
 title: ''
 author: []
+starred: false
 sourcePath: _posts/2016-06-07-welcome-to-my-new-digital-portfolio-im-a-belgian-composer.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
