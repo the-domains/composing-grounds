@@ -55,10 +55,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/patrick-housen/maze'
 title: Maze by Patrick Housen
-datePublished: '2016-06-07T19:22:45.359Z'
-dateModified: '2016-06-07T19:19:31.220Z'
-sourcePath: _posts/2016-06-07-maze-by-patrick-housen.md
+datePublished: '2016-06-07T19:22:50.965Z'
+dateModified: '2016-06-07T19:22:12.121Z'
 starred: false
+sourcePath: _posts/2016-06-07-maze-by-patrick-housen.md
 inFeed: true
 hasPage: false
 inNav: false
