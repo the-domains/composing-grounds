@@ -4,7 +4,7 @@
         <description><![CDATA[Composing Grounds]]></description>
         <link>https://thegrid.ai/composing-grounds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 18:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 18:46:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/composing-grounds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AKoM - All Kinds of Materials (2015) by Patrick Housen]]></title>
@@ -13,13 +13,6 @@
             <link>https://soundcloud.com/patrick-housen/sets/akom-all-kinds-of-materials-2015</link>
             <guid isPermaLink="false">0cc962e3-d72b-484e-ad29-bc88f702ef90</guid>
             <pubDate>Tue, 07 Jun 2016 18:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cliffhanger by Patrick Housen]]></title>
-            <description><![CDATA[<article><h1>Cliffhanger by Patrick Housen</h1><p>A composition of mine, played by Clarinet 4 Ebano. This is a live performance of a concert in the conservatory Ghent on 24th of April 2012</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72f7184f1c90cf82a2130c8c636e8e0a26c9d63e.png"></article>]]></description>
-            <link>https://soundcloud.com/patrick-housen/cliffhanger</link>
-            <guid isPermaLink="false">9a5d80fd-2587-4617-9c20-baf318aefb44</guid>
-            <pubDate>Tue, 07 Jun 2016 18:46:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colliding Universes by Patrick Housen]]></title>
@@ -76,6 +69,13 @@
             <link>https://vimeo.com/75114432</link>
             <guid isPermaLink="false">8d3b1541-838d-41c4-ab59-c7e686696dce</guid>
             <pubDate>Tue, 07 Jun 2016 18:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[De parel druppelt van de draad - The pearl drips from the thread (HD)]]></title>
+            <description><![CDATA[<article><h1>De parel druppelt van de draad - The pearl drips from the thread (HD)</h1><p>I made this movie in my second bachelor year at the Faculty Of Fine Arts, KASK Ghent, Belgium.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d836de507e23ff69f6d635016bd7fd1d837b63f9.jpg"></article>]]></description>
+            <link>https://vimeo.com/51318704</link>
+            <guid isPermaLink="false">c901ad08-fda3-422d-a9d2-4bfba6435fc1</guid>
+            <pubDate>Tue, 07 Jun 2016 18:26:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
