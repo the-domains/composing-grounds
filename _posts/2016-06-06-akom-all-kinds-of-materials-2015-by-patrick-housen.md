@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-07T18:30:54.132Z'
+datePublished: '2016-06-07T18:30:55.034Z'
 sourcePath: _posts/2016-06-06-akom-all-kinds-of-materials-2015-by-patrick-housen.md
 isBasedOnUrl: 'https://soundcloud.com/patrick-housen/sets/akom-all-kinds-of-materials-2015'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: Patrick Housen
     url: 'http://soundcloud.com/patrick-housen'
     avatar: {}
-dateModified: '2016-06-07T18:30:51.213Z'
+dateModified: '2016-06-07T18:30:54.476Z'
 title: AKoM - All Kinds of Materials (2015) by Patrick Housen
 app_links:
   - type: ios
@@ -55,7 +55,7 @@ publisher:
 description: >
   Mixed Ensemble that clashes high & low brow. Classical instruments vs drums
   and electronic bass
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
