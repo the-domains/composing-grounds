@@ -1,5 +1,11 @@
 ---
-id: 7c167b75-fac2-4c3f-8f07-32c81665171c
+datePublished: '2016-08-20T15:02:44.939Z'
+isBasedOnUrl: 'https://vimeo.com/99549247'
+author:
+  - name: Sarah Rathé
+    url: 'http://vimeo.com/user21282722'
+    avatar: {}
+via: {}
 metadata:
   id: 7c167b75-fac2-4c3f-8f07-32c81665171c
   metadata:
@@ -57,25 +63,19 @@ metadata:
         support, and the memory of what once was ...
     dateModified: '2016-08-18T15:12:28.184Z'
   dateModified: '2016-08-18T15:12:34.719Z'
-dateModified: '2016-08-20T15:02:43.350Z'
+dateModified: '2016-08-20T15:02:44.522Z'
 title: HomebushBay
-datePublished: '2016-08-20T15:02:43.948Z'
-author:
-  - name: Sarah Rathé
-    url: 'http://vimeo.com/user21282722'
-    avatar: {}
-isBasedOnUrl: 'https://vimeo.com/99549247'
-description: >-
-  Homebush Bay revolves around the atmosphere of loneliness and confusion. There
-  are no clear borders between reality, dream and recollection. It is a quest
-  for land in an infinite ocean, with crickets as the only support, and the
-  memory of what once was ...
+id: 7c167b75-fac2-4c3f-8f07-32c81665171c
 publisher:
   url: 'https://vimeo.com/'
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
-via: {}
+description: >-
+  Homebush Bay revolves around the atmosphere of loneliness and confusion. There
+  are no clear borders between reality, dream and recollection. It is a quest
+  for land in an infinite ocean, with crickets as the only support, and the
+  memory of what once was ...
 starred: true
 sourcePath: _posts/2016-06-07-homebushbay.md
 inFeed: true
