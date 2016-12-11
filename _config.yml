@@ -1,4 +1,4 @@
-typography_spectrum: 0.7184123666957021
+typography_spectrum: 0.8104583567474037
 color:
   brandStrength: 0.7731614150106907
   lightness: 0.04856375511735678
@@ -10,10 +10,33 @@ color:
     - '#F2CA80'
     - '#5E5A59'
     - '#0D0D0D'
-layout_spectrum: 0.13929764251224697
+github: true
+layout_spectrum: 0.08524365327320993
+author:
+  name: Patrick Housen
+  email: info@patrickhousen.com
 name: Composing Grounds
+url: 'https://patrickhousen.com'
 navigation:
-  - name: Animationfilms
-    id: f5e3f71f-44a3-4c72-b4d5-35b46da0b9b1
+  - name: Website
+    url: 'http://patrickhousen.com'
+    type: external
+  - name: Soundcloud
+    url: 'https://soundcloud.com/patrick-housen/'
+    type: external
+  - name: LinkedIn
+    url: 'https://be.linkedin.com/in/patrick-housen-b297bbb'
+    type: external
+  - name: Music for (animation)films
+    id: ae08fa33-1010-4f34-9268-412630ccbfad
     type: content
-title: My Digital Portfolio
+title: Digital Portfolio
+content: []
+description: Just listen & hear me out
+purpose:
+  - type: external
+    url: 'https://thegrid.ai/epas-blog-patrick-housen'
+    label: EPAS blog
+  - type: external
+    url: 'http://patrickhousen.com'
+    label: 'http://patrickhousen.com'
