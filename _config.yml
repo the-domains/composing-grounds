@@ -37,3 +37,6 @@ purpose:
   - type: external
     url: 'https://thegrid.ai/epas-blog-patrick-housen'
     label: EPAS blog
+  - type: contact
+    url: 'mailto:info@patrickhousen.com'
+    label: Contact me
