@@ -37,6 +37,3 @@ purpose:
   - type: external
     url: 'https://thegrid.ai/epas-blog-patrick-housen'
     label: EPAS blog
-  - type: external
-    url: 'http://patrickhousen.com'
-    label: 'http://patrickhousen.com'
