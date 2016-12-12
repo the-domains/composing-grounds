@@ -36,6 +36,9 @@ navigation:
   - name: Soundscapes
     id: d08c2cfd-c90f-4d26-a6ed-ed7a5a15663a
     type: content
+  - name: EPAS Blog
+    url: 'http://epas.patrickhousen.com'
+    type: external
 title: Digital Portfolio
 content: []
 description: Just listen & hear me out
