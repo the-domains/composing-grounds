@@ -30,9 +30,6 @@ navigation:
   - name: LinkedIn
     url: 'https://be.linkedin.com/in/patrick-housen-b297bbb'
     type: external
-  - name: Music for (animation)films
-    id: ae08fa33-1010-4f34-9268-412630ccbfad
-    type: content
 title: Digital Portfolio
 content: []
 description: Just listen & hear me out
