@@ -12,6 +12,8 @@ color:
     - '#0D0D0D'
 github: true
 layout_spectrum: 0.08524365327320993
+analytics:
+  google: UA-88873723-1
 author:
   name: Patrick Housen
   email: info@patrickhousen.com
