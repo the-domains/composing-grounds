@@ -23,9 +23,6 @@ logo: >-
 name: Composing Grounds
 url: 'http://patrickhousen.com'
 navigation:
-  - name: Website
-    url: 'http://patrickhousen.com'
-    type: external
   - name: Soundcloud
     url: 'https://soundcloud.com/patrick-housen/'
     type: external
