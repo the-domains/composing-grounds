@@ -29,9 +29,6 @@ navigation:
   - name: LinkedIn
     url: 'https://be.linkedin.com/in/patrick-housen-b297bbb'
     type: external
-  - name: Music for animation films
-    id: ae08fa33-1010-4f34-9268-412630ccbfad
-    type: content
   - name: Soundscapes
     id: d08c2cfd-c90f-4d26-a6ed-ed7a5a15663a
     type: content
