@@ -38,7 +38,7 @@ description: Just listen & hear me out
 purpose:
   - type: external
     url: 'http://epas.patrickhousen.com'
-    label: 'http://epas.patrickhousen.com'
+    label: Postgraduate Blog
   - type: contact
     url: 'mailto:info@patrickhousen.com'
     label: Contact me
