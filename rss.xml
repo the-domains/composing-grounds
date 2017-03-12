@@ -4,9 +4,9 @@
         <description><![CDATA[Digital Portfolio]]></description>
         <link>http://patrickhousen.site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Mar 2017 21:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2017 22:25:11 GMT</lastBuildDate>
         <atom:link href="http://patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Mar 2017 21:24:12 GMT</pubDate>
+        <pubDate>Sun, 12 Mar 2017 22:24:52 GMT</pubDate>
         <item>
             <title><![CDATA[The New What Now]]></title>
             <description><![CDATA[<p>February 2017</p>,<p>Finishing my latest creation “In Betwixt” that will be performed by “De Compagnie” in Ghent and Antwerp in April: Check out the article below for more info and to order tickets for the concert.</p>,<article><h1>The New What Now</h1><p>In &quot; Mirrors&quot; slaan 8 jonge getaltenteerde componisten, 5 getalenteerde muzikanten en 8 jonge videokunstenaars de handen in elkaar voor het cre&euml;ren van een unieke muzikale en beeldende totaalervaring voor u, het publiek van The New What Now.</p></article>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Sun, 12 Mar 2017 21:06:52 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bach- BWV 998 Prelude]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FsKcFpLi7Iro%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsKcFpLi7Iro&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsKcFpLi7Iro%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/sKcFpLi7Iro</link>
+            <guid isPermaLink="false">0d4cc939-4bdf-4b6e-bbb4-157fa235cd1d</guid>
+            <pubDate>Sun, 12 Mar 2017 22:24:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Under the Skin [1]]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F196696643&url=https%3A%2F%2Fvimeo.com%2F196696643&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F609249153_640.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
             <link>https://vimeo.com/196696643</link>
@@ -69,13 +76,6 @@
             <link>http://patrickhousen.site/music-for-animationfilms/index.html</link>
             <guid isPermaLink="false">ae08fa33-1010-4f34-9268-412630ccbfad</guid>
             <pubDate>Sat, 22 Oct 2016 21:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bachelorrecital 2013 by Patrick Housen]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F231831575%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fpatrick-housen%2Fsets%2Fbachelorrecital-2013&image=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1477059640&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://soundcloud.com/patrick-housen/sets/bachelorrecital-2013</link>
-            <guid isPermaLink="false">e7c2eaf2-9d88-4473-aebf-af3f667fdfd8</guid>
-            <pubDate>Sat, 22 Oct 2016 21:17:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
