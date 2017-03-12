@@ -4,9 +4,9 @@
         <description><![CDATA[Digital Portfolio]]></description>
         <link>http://patrickhousen.site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Mar 2017 21:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2017 21:08:05 GMT</lastBuildDate>
         <atom:link href="http://patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Mar 2017 21:06:50 GMT</pubDate>
+        <pubDate>Sun, 12 Mar 2017 21:06:53 GMT</pubDate>
         <item>
             <title><![CDATA[AKoM - All Kinds of Materials (2015) by Patrick Housen]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F170623088%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fpatrick-housen%2Fsets%2Fakom-all-kinds-of-materials-2015&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000137895142-1i10tf-t500x500.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -43,6 +43,13 @@
             <pubDate>Sun, 12 Mar 2017 21:06:49 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kask Cinema Trailer 2017]]></title>
+            <description><![CDATA[<h1>Kask Cinema Trailer 2017</h1>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F203148618&url=https%3A%2F%2Fvimeo.com%2F203148618&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F617353672_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p>Trailer for the Kask Cinema in Ghent. <br>Video &amp; sounds by Ellen De Vos <br>Sound editing &amp; Post-production - Mixing [stereo &amp; 5.1 cinema] - by Patrick Housen</p>]]></description>
+            <link>https://vimeo.com/203148618</link>
+            <guid isPermaLink="false">e5f73484-eb07-454a-bd80-75c05c96f73d</guid>
+            <pubDate>Sun, 12 Mar 2017 21:06:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Under the Skin [1]]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F196696643&url=https%3A%2F%2Fvimeo.com%2F196696643&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F609249153_640.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
             <link>https://vimeo.com/196696643</link>
@@ -69,13 +76,6 @@
             <link>http://patrickhousen.site/soundscapes/index.html</link>
             <guid isPermaLink="false">d08c2cfd-c90f-4d26-a6ed-ed7a5a15663a</guid>
             <pubDate>Sat, 22 Oct 2016 21:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If You Rust, You Rest.]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F74304071&url=https%3A%2F%2Fvimeo.com%2F74304071&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F448637191_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://vimeo.com/74304071</link>
-            <guid isPermaLink="false">e7dcc61d-6a22-4e4e-b4e6-df3316546e92</guid>
-            <pubDate>Sat, 22 Oct 2016 21:17:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
