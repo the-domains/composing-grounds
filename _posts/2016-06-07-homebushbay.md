@@ -1,69 +1,12 @@
 ---
-datePublished: '2016-08-20T15:02:44.939Z'
+datePublished: '2017-03-12T21:24:07.693Z'
 isBasedOnUrl: 'https://vimeo.com/99549247'
 author:
   - name: Sarah Rathé
     url: 'http://vimeo.com/user21282722'
     avatar: {}
 via: {}
-metadata:
-  id: 7c167b75-fac2-4c3f-8f07-32c81665171c
-  metadata:
-    id: 7c167b75-fac2-4c3f-8f07-32c81665171c
-    metadata:
-      datePublished: '2016-06-07T18:27:00.506Z'
-      sourcePath: _posts/2016-06-07-homebushbay.md
-      isBasedOnUrl: 'https://vimeo.com/99549247'
-      keywords: []
-      related: []
-      author:
-        - name: Sarah Rathé
-          url: 'http://vimeo.com/user21282722'
-          avatar: {}
-      '@context': 'http://schema.org'
-      dateModified: '2016-06-07T18:27:00.506Z'
-      title: HomebushBay
-      '@type': VideoObject
-      app_links:
-        - url: 'vimeo://app.vimeo.com/videos/99549247'
-          type: ios
-          namespace: ai
-          app_name: Vimeo
-          app_store_id: '425194759'
-        - should_fallback: 'true'
-          app_name: Vimeo
-          package: com.vimeo.android.videoapp
-          url: 'vimeo://app.vimeo.com/videos/99549247'
-          namespace: ai
-          type: web
-        - url: 'vimeo://app.vimeo.com/videos/99549247'
-          namespace: twitter
-          type: ipad
-          name: Vimeo
-          id: '425194759'
-        - url: 'vimeo://app.vimeo.com/videos/99549247'
-          namespace: twitter
-          type: iphone
-          name: Vimeo
-          id: '425194759'
-        - url: 'vimeo://app.vimeo.com/videos/99549247'
-          namespace: twitter
-          type: googleplay
-          name: Vimeo
-          id: com.vimeo.android.videoapp
-      publisher:
-        url: 'https://vimeo.com/'
-        name: Vimeo
-        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-        domain: vimeo.com
-      description: >-
-        Homebush Bay revolves around the atmosphere of loneliness and confusion.
-        There are no clear borders between reality, dream and recollection. It
-        is a quest for land in an infinite ocean, with crickets as the only
-        support, and the memory of what once was ...
-    dateModified: '2016-08-18T15:12:28.184Z'
-  dateModified: '2016-08-18T15:12:34.719Z'
-dateModified: '2016-08-20T15:02:44.522Z'
+dateModified: '2017-03-12T21:24:07.203Z'
 title: HomebushBay
 id: 7c167b75-fac2-4c3f-8f07-32c81665171c
 publisher:
@@ -76,11 +19,10 @@ description: >-
   are no clear borders between reality, dream and recollection. It is a quest
   for land in an infinite ocean, with crickets as the only support, and the
   memory of what once was ...
-starred: true
 sourcePath: _posts/2016-06-07-homebushbay.md
 inFeed: true
-hasPage: false
-inNav: false
+starred: true
+datePublishedOriginal: '2016-10-22T21:17:46.204Z'
 _type: MediaObject
 
 ---
