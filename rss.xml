@@ -4,9 +4,9 @@
         <description><![CDATA[Digital Portfolio]]></description>
         <link>http://portfolio.patrickhousen.site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 26 Dec 2018 22:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Dec 2018 22:02:04 GMT</lastBuildDate>
         <atom:link href="http://portfolio.patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Dec 2018 22:02:07 GMT</pubDate>
+        <pubDate>Wed, 26 Dec 2018 22:02:03 GMT</pubDate>
         <item>
             <title><![CDATA[The New What Now]]></title>
             <description><![CDATA[<p>February 2017</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/683f0e95-a2e6-4d9d-ad2c-8e2c2819dd00.jpg">,<p>Finishing my latest creation “In Betwixt” that will be performed by “De Compagnie” in Ghent and Antwerp in April: Check out the article below for more info and to order tickets for the concert.</p>,<article><h1>The New What Now</h1><p>In &quot; Mirrors&quot; slaan 8 jonge getaltenteerde componisten, 5 getalenteerde muzikanten en 8 jonge videokunstenaars de handen in elkaar voor het cre&euml;ren van een unieke muzikale en beeldende totaalervaring voor u, het publiek van The New What Now.</p></article>]]></description>
@@ -34,13 +34,6 @@
             <link>https://soundcloud.com/patrick-housen/soundsculpting-sessions-padd-e_d-teaser</link>
             <guid isPermaLink="false">2e1ed47a-7903-44e5-b729-f0e391541abe</guid>
             <pubDate>Wed, 26 Dec 2018 22:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SoundSculpting Session - LOOP-e_D Teaser by Patrick Housen]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttps%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F550352115%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fpatrick-housen%2Floop-e_d-teaser&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000463838055-fzhpcb-t500x500.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>]]></description>
-            <link>https://soundcloud.com/patrick-housen/loop-e_d-teaser</link>
-            <guid isPermaLink="false">b32d9880-85c4-4994-a329-53a578a78c2e</guid>
-            <pubDate>Wed, 26 Dec 2018 22:02:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bach- BWV 998 Prelude]]></title>
@@ -76,6 +69,13 @@
             <link>https://drive.google.com/file/d/0ByxbCQbabHzITW5iWjZDMVBEUms/view?usp=sharing</link>
             <guid isPermaLink="false">19b66f9b-0ba6-4d3c-8bdf-feadd2ea3660</guid>
             <pubDate>Tue, 06 Jun 2017 10:27:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teaser for Session [x] online! ]]></title>
+            <description><![CDATA[<h1>Teaser for Session [x] online! </h1>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F203146825&url=https%3A%2F%2Fvimeo.com%2F203146825&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F617351038_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p><strong>Session [x} </strong><br>is an experience-orientated performance that tries to discover and research the affect of the human breath through both performance art and sound. It is also a very physical performance that invites the public to embrace the moment where time seems to freeze, slow-down and speed-up.</p>]]></description>
+            <link>https://vimeo.com/203146825</link>
+            <guid isPermaLink="false">ed3ff0a6-fd3a-4e17-acad-eebc1cfc8954</guid>
+            <pubDate>Sun, 12 Mar 2017 21:06:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
